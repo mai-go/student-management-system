@@ -14,7 +14,6 @@
 
 Demo
 -----------------------------
-- **URL** - http://ems.tserm.com
 - **Username** -  github_user
 - **Password** - guser
 
